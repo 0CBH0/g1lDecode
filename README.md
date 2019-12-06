@@ -6,7 +6,7 @@ Decode audio streams in g1l file to PCM wav
 g1lDecode <g1l_file> [wav_file]
 ~~~
 
-# Support formats of streams
+# Support formats of the stream
 DSP(0x09): WiiBGM, WiiVoice
 
 Other formats would be supported in the future...
