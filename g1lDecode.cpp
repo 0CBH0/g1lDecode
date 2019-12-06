@@ -22,6 +22,8 @@ int main(int argc, char* argv[])
 {
 	if (argc < 2)
 	{
+		printf("g1lDecode - version: 0.5\n");
+		printf("Decode audio streams in g1l file to PCM wav\n\n");
 		printf("Usage:\n");
 		printf("g1lDecode <g1l_file> [wav_file]\n");
 		return 0;
